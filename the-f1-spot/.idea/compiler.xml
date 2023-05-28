@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-gateway" />
+        <module name="sc-newsletter" />
+        <module name="sc-user-registry" />
+        <module name="discovery-service" />
+        <module name="sc-ergast-gateway" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
